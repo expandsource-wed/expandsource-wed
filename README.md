@@ -5,7 +5,7 @@
 ## 안녕하세요✨
 
 ## My Skills
-![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5)
+![HTML](https://img.shields.io/badge/stack-HTML5-E34F26?logo=html5))
 ![CSS](https://img.shields.io/badge/CSS-1572B6)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E)
 
