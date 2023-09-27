@@ -2,6 +2,7 @@
 
 ## My Skills
 ![HTML](https://img.shields.io/badge/HTML-E34F26)
+![CSS](https://img.shields.io/badge/CSS-1572B6)
 
 ### 안녕하세요~ 수요일마다 DevOps 수업을 하고 있는 GitHub 계정입니다.
 
