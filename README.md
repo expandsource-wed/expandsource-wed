@@ -1,8 +1,8 @@
 # Header
 ```
-![Header](https://capsule-render.vercel.app/api?type=capsule&color=auto&height=300&section=header&text=Expandsource%20Wed&fontSize=90)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Expandsource%20Wed&fontSize=90)
 ```
-![Header](https://capsule-render.vercel.app/api?type=capsule&color=auto&height=300&section=header&text=Expandsource%20Wed&fontSize=90)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Expandsource%20Wed&fontSize=90)
 
 ## 안녕하세요✨
 
