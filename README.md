@@ -1,3 +1,5 @@
+![Header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=수요일 수업&fontSize=90)
+
 ## 안녕하세요✨
 
 ## My Skills
