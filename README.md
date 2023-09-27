@@ -7,9 +7,9 @@
 ## 안녕하세요✨
 
 ## My Skills
-![HTML](https://img.shields.io/badge/stack-HTML5-E34F26?logo=html5)
-![CSS](https://img.shields.io/badge/stack-CSS-1572B6?logo=css3)
-![JavaScript](https://img.shields.io/badge/stack-JavaScript-F7DF1E?logo=javascript)
+![HTML](https://img.shields.io/badge/1-HTML5-E34F26?logo=html5)
+![CSS](https://img.shields.io/badge/2-CSS-1572B6?logo=css3)
+![JavaScript](https://img.shields.io/badge/3-JavaScript-F7DF1E?logo=javascript)
 
 
 ### 안녕하세요~ 수요일마다 DevOps 수업을 하고 있는 GitHub 계정입니다.
