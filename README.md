@@ -1,6 +1,8 @@
-![Header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=WendsDay&fontSize=90)
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Developer%Wendsday&fontSize=90)
-
+# Header
+```
+![Header](https://capsule-render.vercel.app/api?type=capsule&color=auto&height=300&section=header&text=Expandsource%20Wed&fontSize=90)
+```
+![Header](https://capsule-render.vercel.app/api?type=capsule&color=auto&height=300&section=header&text=Expandsource%20Wed&fontSize=90)
 
 ## 안녕하세요✨
 
@@ -16,7 +18,7 @@
 - Git 사용법을 배웠어요~
 - 모두 함께 화이팅해요!
 
-![stat](https://github-readme-stats.vercel.app/api?username=expandsource&hide_title=true&show_icons=[%E2%80%A6])
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=expandsource-wed&show_icons=true&theme=radical)
 
 
 ### Hi there 👋
