@@ -16,6 +16,8 @@
 - Git 사용법을 배웠어요~
 - 모두 함께 화이팅해요!
 
+![stat](https://github-readme-stats.vercel.app/api?username=expandsource&hide_title=true&show_icons=[%E2%80%A6])
+
 
 ### Hi there 👋
 
