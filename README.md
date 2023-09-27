@@ -3,7 +3,7 @@
 ## My Skills
 ![HTML](https://img.shields.io/badge/HTML-E34F26)
 ![CSS](https://img.shields.io/badge/CSS-1572B6)
-
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E)
 ### 안녕하세요~ 수요일마다 DevOps 수업을 하고 있는 GitHub 계정입니다.
 
 - Markdown 문법을 배웠어요~
